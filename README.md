@@ -35,7 +35,7 @@ players_20.csv: FIFA20 Player dataset taken from kaggle
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post]() available
+The main findings of the code can be found at the [post](https://medium.com/@garg4.ag/fifa20-data-analysis-824f60954831) available
 
 
 
